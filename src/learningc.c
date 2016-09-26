@@ -12,6 +12,10 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Hello World"); /* prints Hello World */
+	int num;
+	num = 1;
+	printf("I am a simple ");
+	printf("C program,\n");
+	printf("My favorite number is %d because it is the first one.", num);
 	return EXIT_SUCCESS;
 }
