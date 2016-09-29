@@ -20,7 +20,7 @@ void learningc(){
 	printf("start learning c...");
 }
 
-//int main(void) {
-//	learningc();
-//	return EXIT_SUCCESS;
-//}
+int maina(void) {
+	learningc();
+	return EXIT_SUCCESS;
+}
